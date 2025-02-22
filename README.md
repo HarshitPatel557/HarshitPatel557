@@ -5,6 +5,10 @@ I’m passionate about exploring new things and continuously expanding my knowle
 
 ## 🌱 Currently Learning  
 I'm diving into Web Development, working with HTML, CSS, JavaScript.
+I also have experience in **C/C++**, including:
+- Object-Oriented Programming (OOP).
+- Competitive Programming.
+- Memory Management & Pointers.
 
 I also have experience in **C/C++**, including:
 - Object-Oriented Programming (OOP).
