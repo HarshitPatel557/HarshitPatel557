@@ -57,32 +57,6 @@ Git GitHub Docker VS Code PyCharm Postman
 ![Harshit’s Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitPatel557&theme=react-dark&hide_border=true)
 
 ⭐ Featured Projects
-🛒 E-Commerce Platform
-
-Full-stack app with secure authentication and payments.
-
-DRF-based APIs
-
-React + Redux UI
-
-JWT Auth
-
-Optimized deployment
-
-Tech: Django • React.js • Redux • SQLite
-
-🏥 Hospital Management System
-
-Modern appointment management system with clean UI.
-
-React Router navigation
-
-Hooks-based components
-
-Responsive Bootstrap UI
-
-Tech: React.js • JavaScript • REST APIs
-
 🎓 Education
 
 B.Tech — Electronics & Communication Engineering
