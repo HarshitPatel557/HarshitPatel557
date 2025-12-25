@@ -1,109 +1,114 @@
-# 👋 Hey there, I'm Harshit Patel
+👋 Hey, I'm Harshit Patel
+Aspiring Software Developer
 
-### Aspiring Software Developer | Python • Django • React.js
+Python • Django • React.js • Full-Stack Development
 
-I'm passionate about building scalable web applications and solving complex problems through code. Currently pursuing B.Tech in Electronics and Communication Engineering with a strong focus on software development.
+I'm passionate about building scalable web applications and solving real-world problems through code. Currently pursuing B.Tech in ECE while focusing on modern web development technologies.
 
-📍 Bengaluru, Karnataka, India  
-🎓 B.Tech @ Oriental Institute of Science and Technology  
+📍 Bengaluru, India
+🎓 B.Tech @ Oriental Institute of Science and Technology
 💼 Python Full Stack Development @ SkyllX Tech
 
----
+🚀 What I'm Working On
 
-## 🚀 What I'm Up To
+🛠️ Full-stack applications using Django + React.js
 
-- 🔨 Building full-stack web applications with Django and React.js
-- 📚 Learning advanced Django Rest Framework and Redux patterns
-- 🌱 Exploring cloud deployment and containerization with Docker
-- 💡 Contributing to open-source projects
+📚 Mastering DRF and Redux
 
----
+☁️ Learning Docker & Cloud Deployment
 
-## 💻 Tech Stack
+🤝 Contributing to open-source
 
-**Languages**  
-`Python` `JavaScript` `C/C++` `HTML5` `CSS3` `SQL`
+🧰 Tech Stack
+Languages
 
-**Frontend**  
-`React.js` `Redux` `Bootstrap` `Responsive Design`
+Python JavaScript C/C++ HTML5 CSS3 SQL
 
-**Backend**  
-`Django` `Django Rest Framework` `RESTful APIs` `JWT Authentication`
+Frontend
 
-**Databases**  
-`MySQL` `PostgreSQL` `SQLite`
+React.js Redux Bootstrap Responsive UI
 
-**Tools & DevOps**  
-`Git` `GitHub` `Docker` `VS Code` `PyCharm` `Postman`
+Backend
 
----
+Django Django REST Framework REST APIs JWT Auth
 
-## 🎯 Featured Projects
+Databases
 
-### 🛒 E-commerce Platform
-> Full-stack web application with complete user authentication and payment integration
+MySQL PostgreSQL SQLite
 
-- RESTful API with Django Rest Framework for product catalog and order management
-- React.js frontend with Redux state management
-- JWT-based secure authentication
-- Optimized deployment reducing server setup time by 20%
+Tools
 
-**Stack:** Python • Django • React.js • Redux • SQLite
+Git GitHub Docker VS Code PyCharm Postman
 
----
+📈 GitHub Stats & Activity
+🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=HarshitPatel557&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-### 🏥 Hospital Management System
-> Modern React.js application for healthcare appointment management
+📊 GitHub Stats
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitPatel557&show_icons=true&theme=tokyonight&hide_border=true)
 
-- Dynamic patient registration and appointment scheduling interface
-- React Router implementation for multi-module navigation
-- Reusable components with React Hooks (useState, useEffect)
-- Responsive design with Bootstrap and CSS3
+🧠 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPatel557&layout=compact&theme=tokyonight&hide_border=true)
 
-**Stack:** React.js • JavaScript • Bootstrap • REST APIs
+🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=HarshitPatel557&theme=tokyonight&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+📉 Contribution Graph
+![Harshit’s Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitPatel557&theme=react-dark&hide_border=true)
 
-## 📈 GitHub Activity
+⭐ Featured Projects
+🛒 E-Commerce Platform
 
-```text
-🔥 Currently working on full-stack projects
-⚡ Learning Django Rest Framework & React.js
-🎯 2025 Goal: Contribute to 5+ open-source projects
-```
+Full-stack app with secure authentication and payments.
 
----
+DRF-based APIs
 
-## 🎓 Education
+React + Redux UI
 
-**Bachelor of Technology** - Electronics and Communication Engineering  
-Oriental Institute of Science and Technology, Bhopal | 2021 - 2025  
-CGPA: 7.94/10.0
+JWT Auth
 
----
+Optimized deployment
 
-## 📜 Certifications
+Tech: Django • React.js • Redux • SQLite
 
-- **Python Full Stack Development** - SkyllX Tech
-- **Career Essentials in Generative AI** - Microsoft & LinkedIn  
-- **Programming in C/C++** - SCALive
+🏥 Hospital Management System
 
----
+Modern appointment management system with clean UI.
 
-## 🤝 Let's Connect
+React Router navigation
 
-I'm always open to interesting conversations and collaboration opportunities!
+Hooks-based components
 
-📧 **Email:** patelharshithp404@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/harshit-patel-051538258](https://www.linkedin.com/in/harshit-patel-051538258/)  
-🐱 **GitHub:** [github.com/HarshitPatel557](https://github.com/HarshitPatel557)  
-📱 **Phone:** +91-7879264557
+Responsive Bootstrap UI
 
----
+Tech: React.js • JavaScript • REST APIs
+
+🎓 Education
+
+B.Tech — Electronics & Communication Engineering
+Oriental Institute of Science and Technology, Bhopal
+📅 2021–2025 | CGPA: 7.94/10
+
+🏅 Certifications
+
+Python Full Stack Development — SkyllX Tech
+
+Career Essentials in Generative AI — Microsoft + LinkedIn
+
+Programming in C/C++ — SCALive
+
+🤝 Connect With Me
+
+📧 Email: patelharshithp404@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/harshit-patel-051538258/
+
+🐱 GitHub: https://github.com/HarshitPatel557
+
+📱 Phone: +91-7879264557
 
 <div align="center">
-
-**"First, solve the problem. Then, write the code."** - John Johnson
+“First, solve the problem. Then, write the code.” – John Johnson
 
 Made with 💙 by Harshit Patel
 
