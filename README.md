@@ -1,86 +1,112 @@
-👋 Hey, I'm Harshit Patel
-Aspiring Software Developer
 
-Python • Django • React.js • Full-Stack Development
+# 👋 Hey, I'm **Harshit Patel**
 
-I'm passionate about building scalable web applications and solving real-world problems through code. Currently pursuing B.Tech in ECE while focusing on modern web development technologies.
+### **Aspiring Software Developer**
 
-📍 Bengaluru, India
-🎓 B.Tech @ Oriental Institute of Science and Technology
-💼 Python Full Stack Development @ SkyllX Tech
+**Python • Django • React.js • Full-Stack Development**
 
-🚀 What I'm Working On
+I'm passionate about building scalable web applications and solving real-world problems through code. Currently pursuing **B.Tech in ECE** while focusing on modern web development technologies.
 
-🛠️ Full-stack applications using Django + React.js
+📍 **Bengaluru, India**
+🎓 **B.Tech @ Oriental Institute of Science and Technology**
+💼 **Python Full Stack Development @ SkyllX Tech**
 
-📚 Mastering DRF and Redux
+---
 
-☁️ Learning Docker & Cloud Deployment
+## 🚀 What I'm Working On
 
-🤝 Contributing to open-source
+* 🛠️ Full-stack applications using **Django + React.js**
+* 📚 Mastering **DRF** and **Redux**
+* ☁️ Learning **Docker & Cloud Deployment**
+* 🤝 Contributing to **open-source**
 
-🧰 Tech Stack
-Languages
+---
 
-Python JavaScript C/C++ HTML5 CSS3 SQL
+## 🧰 Tech Stack
 
-Frontend
+### **Languages**
 
-React.js Redux Bootstrap Responsive UI
+`Python` `JavaScript` `C/C++` `HTML5` `CSS3` `SQL`
 
-Backend
+### **Frontend**
 
-Django Django REST Framework REST APIs JWT Auth
+`React.js` `Redux` `Bootstrap` `Responsive UI`
 
-Databases
+### **Backend**
 
-MySQL PostgreSQL SQLite
+`Django` `Django REST Framework` `REST APIs` `JWT Auth`
 
-Tools
+### **Databases**
 
-Git GitHub Docker VS Code PyCharm Postman
+`MySQL` `PostgreSQL` `SQLite`
 
-📈 GitHub Stats & Activity
-🔥 GitHub Streak
+### **Tools**
+
+`Git` `GitHub` `Docker` `VS Code` `PyCharm` `Postman`
+
+---
+
+# 📈 GitHub Stats & Activity
+
+### 🔥 **GitHub Streak**
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=HarshitPatel557&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-📊 GitHub Stats
+### 📊 **GitHub Stats**
+
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitPatel557&show_icons=true&theme=tokyonight&hide_border=true)
 
-🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPatel557&layout=compact&theme=tokyonight&hide_border=true)
+### 🧠 **Most Used Languages**
 
-🏆 GitHub Trophies
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPatel557&layout=compact&theme=tokyonight&hide_border=true&v=2)
+
+
+### 🏆 **GitHub Trophies**
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=HarshitPatel557&theme=tokyonight&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-📉 Contribution Graph
-![Harshit’s Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitPatel557&theme=react-dark&hide_border=true)
+### 📉 **Contribution Graph**
 
-🎓 Education
+![My Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitPatel557&theme=react-dark&hide_border=true)
 
-B.Tech — Electronics & Communication Engineering
+---
+
+## 🎓 Education
+
+**B.Tech — Electronics & Communication Engineering**
 Oriental Institute of Science and Technology, Bhopal
-📅 2021–2025 | CGPA: 7.94/10
+📅 2021–2025 | **CGPA: 7.94/10**
 
-🏅 Certifications
+---
 
-Python Full Stack Development — SkyllX Tech
-Career Essentials in Generative AI — Microsoft + LinkedIn
-Programming in C/C++ — SCALive
+## 🏅 Certifications
 
-🤝 Connect With Me
+* Python Full Stack Development — SkyllX Tech
+* Career Essentials in Generative AI — Microsoft + LinkedIn
+* Programming in C/C++ — SCALive
 
-📧 Email: patelharshithp404@gmail.com
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/harshit-patel-051538258/
+## 🤝 Connect With Me
 
-🐱 GitHub: https://github.com/HarshitPatel557
+📧 **Email:**  
+patelharshithp404@gmail.com  
 
-📱 Phone: +91-7879264557
+💼 **LinkedIn:**  
+[linkedin.com/in/harshit-patel-051538258](https://www.linkedin.com/in/harshit-patel-051538258/)  
+
+🐱 **GitHub:**  
+[github.com/HarshitPatel557](https://github.com/HarshitPatel557)  
+
+📱 **Phone:**  
++91-7879264557  
+
+---
 
 <div align="center">
-“First, solve the problem. Then, write the code.” – John Johnson
 
-Made with 💙 by Harshit Patel
+### **“First, solve the problem. Then, write the code.” – John Johnson**
+
+Made with 💙 by **Harshit Patel**
 
 </div>
