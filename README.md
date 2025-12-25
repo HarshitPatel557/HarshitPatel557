@@ -56,7 +56,6 @@ Git GitHub Docker VS Code PyCharm Postman
 📉 Contribution Graph
 ![Harshit’s Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitPatel557&theme=react-dark&hide_border=true)
 
-⭐ Featured Projects
 🎓 Education
 
 B.Tech — Electronics & Communication Engineering
@@ -66,9 +65,7 @@ Oriental Institute of Science and Technology, Bhopal
 🏅 Certifications
 
 Python Full Stack Development — SkyllX Tech
-
 Career Essentials in Generative AI — Microsoft + LinkedIn
-
 Programming in C/C++ — SCALive
 
 🤝 Connect With Me
