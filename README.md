@@ -42,7 +42,7 @@ I'm passionate about building scalable web applications and solving real-world p
 
 ### **Tools**
 
-`Git` `GitHub` `Docker` `VS Code` `PyCharm` `Postman`
+`Git` `GitHub` `Docker` `VS Code` `PyCharm` `Postman` `JWT`
 
 ---
 
