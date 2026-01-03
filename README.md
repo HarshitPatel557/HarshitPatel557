@@ -46,6 +46,7 @@ I'm passionate about building scalable web applications and solving real-world p
 
 ---
 
+
 # 📈 GitHub Stats & Activity
 
 ### 🔥 **GitHub Streak**
@@ -70,6 +71,7 @@ I'm passionate about building scalable web applications and solving real-world p
 ![My Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitPatel557&theme=react-dark&hide_border=true)
 
 ---
+
 
 ## 🎓 Education
 
