@@ -1,4 +1,3 @@
-
 # 👋 Hey, I'm **Harshit Patel**
 
 ### **Aspiring Software Developer**
